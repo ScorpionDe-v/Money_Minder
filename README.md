@@ -37,8 +37,6 @@ Hosted At : https://cooperative-pear-tam.cyclic.app/login
 - **Frontend:** React.js, HTML5, CSS3, JavaScript
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **Authentication:** JSON Web Tokens (JWT)
-- **Additional Libraries/Tools:** [List additional tools/libraries used]
 
 <!-- Installation -->
 ## Installation 🛠️
@@ -51,3 +49,5 @@ Hosted At : https://cooperative-pear-tam.cyclic.app/login
    
    cd frontend
    npm install
+
+   npm dev run
