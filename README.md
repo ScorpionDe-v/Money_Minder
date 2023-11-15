@@ -21,19 +21,6 @@ Hosted At : https://cooperative-pear-tam.cyclic.app/login
   <!-- Example: ![GitHub last commit](https://img.shields.io/github/last-commit/username/repo-name) -->
 </p>
 
-<!-- Table of Contents -->
-## Table of Contents
-
-- [Description](#description)
-  - [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots/Demo](#screenshotsdemo)
-- [Contributing](#contributing)
-- [Authors](#authors)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 <!-- Features -->
 ## Features 🚀
