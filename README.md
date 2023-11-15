@@ -9,7 +9,7 @@ Hosted At : https://cooperative-pear-tam.cyclic.app/login
 
 <!-- Description -->
 <p align="center">
-  <img src="path/to/your/project/image.png" alt="Project Image/Logo">
+  <img src="path/to/your/project/image.jpg" alt="Project Image/Logo">
 </p>
 
 <!-- Brief Description -->
